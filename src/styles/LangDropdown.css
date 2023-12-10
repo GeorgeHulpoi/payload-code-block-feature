@@ -1,0 +1,10 @@
+.code-action-menu-container .floating-select-toolbar-popup__dropdown {
+    width: auto;
+    color: var(--color-base-600);
+    padding-right: 12px;
+    padding-left: 6px;
+}
+
+.code-action-menu-container .floating-select-toolbar-popup__dropdown-caret {
+    margin-left: 6px;
+}

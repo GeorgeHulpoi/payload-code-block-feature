@@ -1,0 +1,4 @@
+.LexicalEditorTheme__code:before {
+    border-right: 1px solid var(--theme-elevation-100);
+    color: var(--theme-elevation-500);
+}

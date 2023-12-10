@@ -1,0 +1,36 @@
+{
+    "name": "payload-code-block-feature",
+    "version": "0.0.0-alpha.0",
+    "description": "A workaround for using @lexical/code with PayloadCMS until the core team integrates into the official package.",
+    "repository": "git@github.com:GeorgeHulpoi/payload-code-block-feature.git",
+    "homepage": "https://github.com/GeorgeHulpoi/payload-code-block-feature",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "files": [
+        "**/*",
+        "LICENSE",
+        "package.json"
+    ],
+    "keywords": [
+        "payload",
+        "cms",
+        "feature",
+        "plugin",
+        "lexical",
+        "code",
+        "block",
+        "@lexical/code"
+    ],
+    "author": {
+        "name": "George-Valentin Hulpoi",
+        "url": "https://gvhdev.com"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "lodash-es": "^4.17.21"
+    },
+    "peerDependencies": {
+        "@payloadcms/richtext-lexical": "~0.4.0",
+        "payload": "~2.4.0"
+    }
+}

@@ -1,0 +1,3 @@
+.code-action-menu-container .copy svg {
+    pointer-events: none;
+}
